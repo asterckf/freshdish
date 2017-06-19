@@ -1,0 +1,34 @@
+body{
+  padding-top: 50px;
+}
+
+#headerWrapper{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 450px;
+  background-image: url(../images/headerlogo/lunchbox.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 775px;
+  background-position: bottom center;
+  background-attachment: fixed;
+}
+
+.img-thumb{
+  width:auto;
+  height:200px;
+}
+
+#footer{
+  margin-top: 50px;
+}
+
+#add-product-btn{
+  margin-top: -35px;
+}
+
+.saved-image img{
+  width:10px;
+  height: auto;
+}
